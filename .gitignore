@@ -1,0 +1,17 @@
+# Bancos de dados e volumes (DADOS SENSÍVEIS)
+data-mysql/
+data-influxdb/
+data-nodered/
+data-grafana/
+
+# Meus backups compactados
+*.tar.gz
+
+# Arquivos de ambiente e segredos
+.env
+*.pem
+*.id_rsa
+
+# Logs e arquivos temporários
+*.log
+
