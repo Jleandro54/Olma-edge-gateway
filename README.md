@@ -1,5 +1,5 @@
 # 🚀 Edge Gateway IIoT - Projeto Olma
-📄 **[Clique aqui para visualizar o Case Técnico Completo (PDF)](Case-Tecnico-Olma-Edge-Gateway.pdf)**
+> 📄 **[Clique aqui para visualizar o Case Técnico Completo (PDF)](case-tecnico-olma.pdf)**
 
 Este projeto apresenta uma infraestrutura de **Edge Computing** industrial projetada para garantir a resiliência e a persistência de dados no monitoramento da máquina Olma.
 
