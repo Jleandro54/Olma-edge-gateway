@@ -15,3 +15,7 @@ data-grafana/
 # Logs e arquivos temporários
 *.log
 
+# Arquivos temporários de editores
+*.save
+*.swp
+.DS_Store
