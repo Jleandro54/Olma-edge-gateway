@@ -1,4 +1,5 @@
 # 🚀 Edge Gateway IIoT - Projeto Olma
+📄 **[Clique aqui para visualizar o Case Técnico Completo (PDF)](Case-Tecnico-Olma-Edge-Gateway.pdf)**
 
 Este projeto apresenta uma infraestrutura de **Edge Computing** industrial projetada para garantir a resiliência e a persistência de dados no monitoramento da máquina Olma.
 
@@ -22,5 +23,4 @@ Em colaboração com **Jhonata Soares**, desenvolvemos:
 - Visualização de dados em tempo real no **Grafana**.
 
 ---
-*Projeto desenvolvido como parte da transição entre Mecatrônica e Análise e Desenvolvimento de Sistemas (ADS).*
 *Projeto desenvolvido através da **sinergia técnica** entre a Mecatrônica Industrial e a Análise e Desenvolvimento de Sistemas (ADS).*
